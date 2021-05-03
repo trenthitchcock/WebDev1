@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+body {
+background-image: url("https://d2skuhm0vrry40.cloudfront.net/2018/articles/2018-03-06-16-18/bloodborne1.jpg")
+  
+}
+
+img {
+max-width: 40% ;
+max-height: 40% ;
+}
+
+P {color: darkblue;
+}
+
+p2{
+  color: darkred;  
+}
