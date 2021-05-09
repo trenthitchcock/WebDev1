@@ -18,14 +18,3 @@ p2{
   color: darkred;  
 }
 
-
-
-.Hunter {
-    opacity:0.45;
-    -moz-opacity:0.45;
-    filter:alpha(opacity=45);
-    position:absolute;
-    height:48px;
-    width:48px;
-    z-index:10;
-}
