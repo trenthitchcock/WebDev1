@@ -12,12 +12,27 @@ max-height: 40% ;
 }
 
 P {color: darkblue;
+   border-style: solid;
+   border-color: darkblue;
+   border-width: 5px;
+   text-align: center;
 }
 
+
 p2{
-  color: darkred;  
+  color: darkred;
+  border-style: solid;
+  border-color: darkred;
+  border-width: 5px;
+  text-align: center;
+}
+
 }
 
 p3{ 
   color: purple;
+  border-style: solid;
+  border-color: purple;
+  border-width: 5px;
+  text-align: center;
 }
